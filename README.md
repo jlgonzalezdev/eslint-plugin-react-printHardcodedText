@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-react-printhardcodedtext`:
 
 ```
-$ npm install eslint-plugin-react-printhardcodedtext --save-dev
+$ npm install https://github.com/jlgonzalezdev/eslint-plugin-react-printHardcodedText.git --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-react-printhardcodedtext` globally.
@@ -42,8 +42,7 @@ Then configure the rules you want to use under the rules section.
 ```
 
 ## Supported Rules
-
-* Fill in provided rules here
+no-hardcoded-text
 
 
 
